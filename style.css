@@ -20,5 +20,7 @@
 
 /*DAVID*/
 .part2{
-    background-image:url();
+    background:url("img-projet2/image-1-egae-1000x1800.jpg");
+    background-size: cover;
+    height: 100vh;
 }
