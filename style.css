@@ -57,7 +57,7 @@ img{
      
 }
 .contact{
-    padding: 15px
+    font-size: 0.8rem;
 }
 .card{
     border: none;
@@ -66,5 +66,6 @@ img{
 
 .textcard{
     line-height: 1rem;
+    font-size: 0.8rem;
 }
 
