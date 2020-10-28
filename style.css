@@ -6,17 +6,28 @@ height: 100vh;
 }
 
 
-.navbar{
-    margin-left: 7rem;
-    margin-right: 7rem;
+body{
+
+    position: relative;
 }
 
+.navbar{
 
+    margin-left: 7rem;
+    margin-right: 7rem;
 
+}
 
+#navbar{
+  
+    position:relative;
+    z-index:100;
+}
 
-
-
+#position_bloc{
+  
+    position:0px;
+}
 
 
 
